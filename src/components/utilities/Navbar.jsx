@@ -36,8 +36,8 @@ export default function Navbar() {
     <div className="navbar-wrapper">
       <div className="navbar-container">
         <div className="logo">
-          <span style={{color: "#f4f4f4"}}>S</span>
-          <span style={{color: "#048CF8"}}>A</span>
+          <span style={{color: "#f4f4f4"}}>R</span>
+          <span style={{color: "#048CF8"}}>G</span>
         </div>
             <svg
               className="menu-icon "
