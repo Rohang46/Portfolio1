@@ -31,12 +31,8 @@ export default function Project3(props) {
             </div>
           </div>
           <div className="project-links">
-            <a href={props.liveLink} target="_blank" rel="noopener noreferrer">
-              Demo
-            </a>
-            <br />
             <a href={props.codeLink} target="_blank" rel="noopener noreferrer">
-              Code
+              Source Code
             </a>
           </div>
         </div>

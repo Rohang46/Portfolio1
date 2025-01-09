@@ -41,12 +41,8 @@ export default function Project2(props) {
             </div>
           </div>
           <div className="project-links">
-            <a href="https://banking-jet.vercel.app/" target="_blank" rel="noopener noreferrer">
-               Demo
-            </a>
-            <br />
             <a href="https://github.com/Rohang46/Bank-verse" target="_blank" rel="noopener noreferrer">
-             Code
+             Source Code
             </a>
           </div>
         </div>

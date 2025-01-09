@@ -19,7 +19,7 @@ export default function Homepage() {
       <div className="header-container">
         <div className="header-wrapper">
           <div className="headings">
-            <h1>Hi, I'm Rohan Gaikwad </h1>
+            <h1>Hi,I'm Rohan Gaikwad </h1>
             <p>Full stack web developer </p>
           </div>
           <a className="cv-link" href={CV} download="Rohan-Resume">
