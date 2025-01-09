@@ -7,7 +7,7 @@ export const Chatbot = ( { setIsChatbotVisible } ) => {
 
   const [email, setEmail] = useState("");
   const [gotEmail, setGotEmail] = useState(false);
-  const returnTime = "6:00 PM";
+  
 
   function getTime(){
     const time = new Date().toLocaleTimeString('en-US', {
